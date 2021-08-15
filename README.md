@@ -1,4 +1,4 @@
-# dio-business-card
+# Business Card
 Projeto desenvolvido com a Plataforma Digital Innovation One.
 
 #Melhorias a serem realizadas:
